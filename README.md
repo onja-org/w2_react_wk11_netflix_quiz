@@ -1,14 +1,33 @@
-# title(){
+# Netflix Quiz Project
+
+## Project Overview
+
+Welcome to the Netflix Quiz Project! This is an educational coding challenge where you'll build an interactive movie quiz application using React and the REST API. You will practice essential web development skills including API integration, state management, component architecture, and creating engaging user interfaces.
+
+### What You'll Build
+
+An interactive quiz game that:
+- Fetches real-time data from a REST API
+- Provides immediate feedback on answers
+- Tracks scores and allows retries
+- Features a responsive, modern UI
+
+
+title(){
 		
 		return this.options.title || this.options.name;
 	}
+
+# Work with the boilerplate code
+
+## Run the code locally
 
 Quick start:
 
 ```
 $ yarn # npm install
 $ yarn build # npm run build
-````
+```
 
 ## Development
 
